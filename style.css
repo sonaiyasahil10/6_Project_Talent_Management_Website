@@ -36,9 +36,10 @@ nav {
 
 nav h1 {
     /* background-color: red; */
-    /* font-family: MonumentExtended-Ultrabold; */
-    /* font-family: MonumentExtended-Regular; */
-    font-family: Monument;
+    /* font-family: 'monument_extendedregular'Extended-Ultrabold; */
+    /* font-family: 'monument_extendedregular'Extended-Regular; */
+    font-family: ''monument_extendedregular'_extendedregular';
+    
     font-size: 5vh;
     letter-spacing: -6.5px;
     height: 100%;
@@ -53,7 +54,7 @@ nav h1 {
 nav h1::before {
     content: "©";
     font-size: 2vh;
-    font-family: monument;
+    font-family: 'monument_extendedregular';
     font-weight: 100;
     position: absolute;
     top: 20%;
@@ -141,7 +142,7 @@ nav h3 .ri-menu-search-line {
 
 #overlay #over_1 h1 {
     font-size: 5.5vh;
-    font-family: monument;
+    font-family: ''monument_extendedregular'_extendedregular';
     /* margin: 0 5%; */
 }
 
@@ -280,7 +281,7 @@ nav h3 .ri-menu-search-line {
 
 #page_2 #page_2_left h1 {
     padding: 3% 0%;
-    font-family: Monument;
+    font-family: 'monument_extendedregular';
     font-size: 4.5vh;
 }
 
@@ -403,7 +404,7 @@ nav h3 .ri-menu-search-line {
 }
 
 #page_4>h1 {
-    font-family: monument;
+    font-family: 'monument_extendedregular';
     text-align: center;
     font-size: 3vw;
     margin-bottom: 5%;
@@ -487,7 +488,7 @@ nav h3 .ri-menu-search-line {
 #marque h1 {
     display: inline-block;
     font-size: 3vw;
-    font-family: monument;
+    font-family: 'monument_extendedregular';
     padding: 0vw 0.5%;
     /* margin-right: 16px; */
     -webkit-text-stroke: 2px black;
@@ -524,7 +525,7 @@ nav h3 .ri-menu-search-line {
     width: 20%;
     text-align: left;
     font-size: 3vw;
-    font-family: monument;
+    font-family: 'monument_extendedregular';
     /* margin-left: 5%; */
 }
 
@@ -643,9 +644,9 @@ footer #footer_left {
 
 footer #footer_left h1 {
     /* background-color: red; */
-    /* font-family: MonumentExtended-Ultrabold; */
-    /* font-family: MonumentExtended-Regular; */
-    font-family: Monument;
+    /* font-family: 'monument_extendedregular'Extended-Ultrabold; */
+    /* font-family: 'monument_extendedregular'Extended-Regular; */
+    font-family: 'monument_extendedregular';
     font-size: 5vh;
     letter-spacing: -6.5px;
     height: 100%;
@@ -660,7 +661,7 @@ footer #footer_left h1 {
 footer #footer_left h1::before {
     content: "©";
     font-size: 2vh;
-    font-family: monument;
+    font-family: 'monument_extendedregular';
     font-weight: 100;
     position: absolute;
     top: 20%;
@@ -821,7 +822,7 @@ footer #footer_right_bottom p {
 
     #overlay #over_1 {
         padding-bottom: 0vh;
-        font-family: monument;
+        font-family: 'monument_extendedregular';
     }
 
     #overlay #over_1 h1 {
@@ -1106,7 +1107,7 @@ footer #footer_left h1 {
 footer #footer_left h1::before {
     content: "©";
     font-size: 1vh;
-    font-family: monument;
+    font-family: 'monument_extendedregular';
     font-weight: 100;
     position: absolute;
     top: 20%;
