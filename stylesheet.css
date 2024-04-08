@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Monument Extended';
+    src: url('transfonter.org-20240408-142839/MonumentExtended-Ultrabold.eot');
+    src: url('MonumentExtended-Ultrabold.eot?#iefix') format('embedded-opentype'),
+        url('transfonter.org-20240408-142839/MonumentExtended-Ultrabold.woff2') format('woff2'),
+        url('transfonter.org-20240408-142839/MonumentExtended-Ultrabold.woff') format('woff'),
+        url('transfonter.org-20240408-142839/MonumentExtended-Ultrabold.ttf') format('truetype'),
+        url('transfonter.org-20240408-142839/MonumentExtended-Ultrabold.svg#MonumentExtended-Ultrabold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Monument Extended';
+    src: url('transfonter.org-20240408-142839/MonumentExtended-Regular.eot');
+    src: url('transfonter.org-20240408-142839/MonumentExtended-Regular.eot?#iefix') format('embedded-opentype'),
+        url('transfonter.org-20240408-142839/MonumentExtended-Regular.woff2') format('woff2'),
+        url('transfonter.org-20240408-142839/MonumentExtended-Regular.woff') format('woff'),
+        url('transfonter.org-20240408-142839/MonumentExtended-Regular.ttf') format('truetype'),
+        url('transfonter.org-20240408-142839/MonumentExtended-Regular.svg#MonumentExtended-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
