@@ -38,7 +38,7 @@ nav h1 {
     /* background-color: red; */
     /* font-family: 'monument_extendedregular'Extended-Ultrabold; */
     /* font-family: 'monument_extendedregular'Extended-Regular; */
-    font-family: ''monument_extendedregular'_extendedregular';
+    font-family: 'monument_extendedregular';
     
     font-size: 5vh;
     letter-spacing: -6.5px;
@@ -142,7 +142,7 @@ nav h3 .ri-menu-search-line {
 
 #overlay #over_1 h1 {
     font-size: 5.5vh;
-    font-family: ''monument_extendedregular'_extendedregular';
+    font-family: 'monument_extendedregular';
     /* margin: 0 5%; */
 }
 
